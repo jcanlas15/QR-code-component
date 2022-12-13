@@ -1,0 +1,33 @@
+* {
+    font-family: 'Outfit';
+}
+body {
+    width: 1440px;
+    background-color: hsl(212, 45%, 89%);
+}
+div {
+    margin: auto;
+    margin-top: 50px;
+    width: 23%;
+    height: 75%;
+    padding: 15px 0 15px;
+    color: hsl(218, 44%, 22%);
+    background-color: #fff;
+    font-size: 15px;
+    border-radius: 25px;
+    text-align: center;
+}
+h2 {
+    font-weight: 700;
+}
+p {
+    font-weight: 400;
+    line-height: 0.5cm;
+}
+.info-img {
+    height: auto;
+    width: auto;
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 25px;
+}
